@@ -1,0 +1,5 @@
+useDynLib(sMNP)
+importFrom("MASS", "mvrnorm")
+export(smnp)
+S3method(coef, sMNP)
+S3method(predict, sMNP)

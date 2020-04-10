@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586541598409.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8FC62F2E",
+    "lastKnownWriteTime" : 1574779001,
+    "last_content_update" : 1574779001,
+    "path" : "~/Dropbox/richard/sMNP/smnpToDavid/sMNP/R/smnp.R",
+    "project_path" : "R/smnp.R",
+    "properties" : {
+        "cursorPosition" : "9,83",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

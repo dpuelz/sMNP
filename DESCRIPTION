@@ -1,0 +1,13 @@
+Package: sMNP
+Type: Package
+Version: 1.0
+Title: Symmetric Multinomial Probit Models
+Author: Lane Burgette, David Puelz, P. Richard Hahn
+Maintainer: David Puelz <David.Puelz@chicagobooth.edu>
+Depends: R (>= 2.1), MASS, utils
+Description: R package for fitting symmetric multinomial probit models.  Please see the manuscript <arXiv:1912.10334>.
+LazyLoad: yes
+LazyData: true
+License: GPL-3
+NeedsCompilation: yes
+RoxygenNote: 7.0.2
