@@ -1,7 +1,7 @@
 /******************************************************************
  This file contains Cpp functions for fitting symmetric multinomial probit models.
- It is adapted from the codebase the codebase of MNP (JSS 2005), now modified to run the algorithm preseneted in
- the sMNP paper of Burgette, Puelz, Hahn (2020)
+ It is adapted from the codebase the codebase of MNP (JSS 2005), now modified
+ to run the algorithm preseneted in the sMNP paper of Burgette, Puelz, Hahn (2020)
  *******************************************************************/
 
 // To do:
