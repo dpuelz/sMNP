@@ -204,7 +204,7 @@ void cMNPgibbs(int *piNDim, int *piNCovCat, int *piNCovResp, int *piNSamp, int *
         }
         
         
-        // beta --> betatilde (puelz -- 12/10/2019)
+        // beta --> betatilde
         for(j=0;j<n_cov_short;j++)
             beta[j] *= sqrt(alpha2);
         for(j=0;j<n_cov_long;j++)
